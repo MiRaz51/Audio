@@ -1,0 +1,1 @@
+"7za.exe" x "ConfigWin.7z" -o"%~d0%~p0"
